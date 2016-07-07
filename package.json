@@ -1,0 +1,20 @@
+{
+  "name": "repimo",
+  "version": "0.0.1",
+  "description": "",
+  "bin": {
+    "repimo": "./bin/repimo.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bash-color": "0.0.4",
+    "cheerio": "^0.20.0",
+    "prompt": "^1.0.0",
+    "q": "^1.4.1",
+    "request": "^2.72.0"
+  }
+}
